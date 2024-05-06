@@ -13,6 +13,9 @@
 ![Screenshot (132)](https://github.com/Ranauzair686/Ecommerce-app/assets/135938553/72d123e7-7b51-43fe-b226-54591d75316a)
 # And if the item to be delivered is digital you will be asked these 2 things as guest user 
 ![Screenshot (133)](https://github.com/Ranauzair686/Ecommerce-app/assets/135938553/5bf95b9f-6b2a-4225-b295-d7aada31477b)
+# currently have added payment button manually by this your pament will be done and order been placred you can check in admin pannel
+![Screenshot (134)](https://github.com/Ranauzair686/Ecommerce-app/assets/135938553/5cf80be5-a1eb-46aa-9a8f-b954a5699dd7)
+
 # and if you are logged in user will only show the payment button Will be adding payment integration later on but if u are a guest user your cart will remain as it is whenever you will be back as of i worked with cookies in this project
 
 
